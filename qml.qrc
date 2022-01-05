@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>InterfaceUI.qml</file>
+        <file>PNG/Asset 1@4x.png</file>
+    </qresource>
+</RCC>
